@@ -1,0 +1,32 @@
+.section-box {
+    background-color: #e0e0e0;
+    border: 1px solid #333;
+    height: 700px;
+    margin-bottom: 20px;
+    padding: 15px;
+    position: relative;
+  }
+  
+  .section-title {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 10px 20px;
+    font-weight: bold;
+    border-left: 1px solid #333;
+    border-bottom: 1px solid #333;
+  }
+  
+  .section-chicken {
+    background-color: #f7c6c7;
+  }
+  
+  .section-beef {
+    background-color: #d9534f;
+    color: white;
+  }
+  
+  .section-sushi {
+    background-color: #f5e79e;
+  }
+  
